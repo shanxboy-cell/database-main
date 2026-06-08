@@ -1,0 +1,3 @@
+❌ Error occurred !!
+
+movie-xx validation failed: PAY: Cast to string failed for value "{ '94727434765': { expire: 1766310972793 } }" (type Object) at path "PAY"
