@@ -1,12 +1,12 @@
 [
   {
-    "title": "Movie Name",
-    "image": "Movie image URL",
-    "runtime": "2h 10m",
-    "description": "Movie description",
+    "title": "Big Buck Bunny",
+    "image": "https://peach.blender.org/wp-content/uploads/bbb-splash.png",
+    "runtime": "9m 56s",
+    "description": "Big Buck Bunny is a Creative Commons animated short film by the Blender Foundation.",
     "players": [
       {
-        "link": "Direct movie download URL"
+        "link": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
       }
     ]
   }
